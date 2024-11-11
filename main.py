@@ -6,7 +6,7 @@ from PIL import Image
 import math
 
 st.write('''# Plant Disease Detection''')
-st.image("static\\background.png")
+st.image("static/background.png")
 
 uploaded_file = st.file_uploader("Choose a file")
 

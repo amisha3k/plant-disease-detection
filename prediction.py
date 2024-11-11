@@ -5,7 +5,7 @@ from tensorflow.keras.applications.vgg16 import preprocess_input
 import numpy as np
 from PIL import Image
 
-model = load_model('model\\plant_disease_prediction_model.h5')
+model = load_model('model/plant_disease_prediction_model.h5')
 img_size = 256
 diseases = [
     'Apple___Apple_scab',
