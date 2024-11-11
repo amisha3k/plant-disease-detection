@@ -1,0 +1,9 @@
+numpy==2.0.2
+pillow==10.4.0
+pytest==8.3.3
+python-dateutil==2.9.0.post0
+tensorboard==2.18.0
+tensorboard-data-server==0.7.2
+tensorflow==2.18.0
+tensorflow-hub==0.12.0
+tensorflowjs==3.18.0
