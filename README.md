@@ -1,7 +1,7 @@
 <h1>Plant Disease Detection</h1>
 <p>Plant Disease Detection is an innovative machine learning project that harnesses the power of Convolutional Neural Networks (CNN) and deep learning techniques to identify and classify diseases in plants. The primary objective 
   is to offer farmers and agricultural experts a valuable tool for swift plant health diagnosis, facilitating timely intervention and minimizing the risk of crop loss.</p>
-
+<p><a href="https://plant-disease-detection-amisha.streamlit.app/" target="_blank">Live Demo</a></p>
 <h2>Project structure</h2>
 <p>The project comprises essential components:</p>
 <ul>
